@@ -1,5 +1,5 @@
 ### 👋 Hi, I’m @qaiswardag
 
-👀 I’m interested in JavaScript, Vue.js, CSS, Tailwind, Node.js Python
+👀 I’m interested in JavaScript, Vue.js, Nuxt.js, PHP, Laravel, CSS and Tailwind
 
-🌱 I’m currently learning Nuxt.js
+🌱 I’m currently learning Nuxt 3.
