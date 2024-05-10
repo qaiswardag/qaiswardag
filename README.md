@@ -4,6 +4,6 @@ I will describe myself as an engaged, humorous, and result-driven person, who en
 
 With an extensive background in web development, my focus revolves around backend technologies, cyber security and user experiences on the frontend.
 
-My passion lies in Go, PHP, MySQL, SQL, TypeScript, JavaScript, Laravel, Vue, Nuxt, React, CSS, and Tailwind.
+My passion lies in Go, PHP, MySQL, SQL, TypeScript, JavaScript, Laravel, Vue, Nuxt, React, CSS, HTML, and Tailwind.
 
 [LinkedIn](https://www.linkedin.com/in/qaiswardag)
