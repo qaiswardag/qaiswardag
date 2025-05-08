@@ -1,7 +1,6 @@
 # Hey there, I’m @qaiswardag
 
 I live in Copenhagen, Denmark 🇩🇰.
-
 I will describe myself as an engaged, humorous, and results-driven person, who enjoys working and making things develop. To be initiative, curious and hardworking is qualities I hold high, as they, in my opinion, are the key to making a business grow.
 
 With an extensive background in web development, my focus revolves around backend technologies, cybersecurity, and creating amazing user experiences on the frontend.
